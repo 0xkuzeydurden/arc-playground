@@ -1,6 +1,12 @@
 # Arc Playground
 
-A React and TypeScript playground for wallet interactions on Arc Testnet, with a USDC bridging interface powered by Circle Bridge Kit. Built with Vite, Tailwind CSS, and viem.
+[![CI](https://github.com/0xkuzeydurden/arc-playground/actions/workflows/ci.yml/badge.svg)](https://github.com/0xkuzeydurden/arc-playground/actions/workflows/ci.yml)
+
+![Arc Playground project cover](assets/social-preview.png)
+
+Explore Arc Testnet from one dashboard: connect a wallet, send GM/GN greetings, transfer test tokens, deploy ERC-20 and ERC-721 contracts, and use the Circle Bridge Kit interface.
+
+Built with React, TypeScript, Vite, Tailwind CSS, and viem. [Run it locally](#run-locally) to explore the interface; wallet approval is required for onchain actions.
 
 ## Features
 
